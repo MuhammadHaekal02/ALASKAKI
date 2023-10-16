@@ -1,5 +1,6 @@
 <?php
 session_start();
+echo "234234";
 ?>
 <!DOCTYPE html>
 <html>
